@@ -49,6 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PSD\FrancescoBonizzi-CurriculumVitae.jpg" />
     <None Include="App.config" />
     <Content Include="document-128.ico" />
     <Content Include="FrancescoBonizzi-CV.json">

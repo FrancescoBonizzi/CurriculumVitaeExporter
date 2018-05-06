@@ -22,7 +22,7 @@ namespace CurriculumVitaeExporter.Implementations
                 .Encoding(Encoding.UTF8)
                 .TextColor(ConsoleColor.Black)
                 .BackgroundColor(ConsoleColor.White)
-                .Size(110, 42);
+                .Size(110, 44);
         }
 
         public void Export(CurriculumVitae curriculumVitae)

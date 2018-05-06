@@ -48,10 +48,13 @@
 
   "Projects": [
     {
+      "Description": "I began to actively contribute to open source on GitHub"
+    },
+    {
       "Description": "I released on GitHub \"Booli\": a boolean expressions interpreter"
     },
     {
-      "Description": "I began to actively contribute to open source on GitHub"
+      "Description": "I released on GitHub \"CurriculumVitaeExporter\": this page code generator"
     },
     {
       "Description": "I published on Android Store and Microsoft Store a videogame with Monogame/Xamarin: \"Starfall\""
