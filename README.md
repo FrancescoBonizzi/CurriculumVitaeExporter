@@ -1,7 +1,8 @@
 # CurriculumVitaeExporter
 
-Just a library that defines a Curriculum Vitae domain and some abstractions to export it to any format.
-Mine is exported as a Console Application with a fluent syntax!
+Just a library that defines a **Curriculum Vitae domain** and some abstractions to export it to any format...
+
+...mine is exported as a `Console Application` with a fluent syntax!
 
 # My Curriculum Vitae
 
