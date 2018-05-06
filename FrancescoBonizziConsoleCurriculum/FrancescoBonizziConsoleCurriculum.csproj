@@ -55,6 +55,7 @@
     <Content Include="FrancescoBonizzi-CV.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="PSD\FrancescoBonizzi-CurriculumVitae.pdf" />
     <None Include="PSD\FrancescoBonizzi-CurriculumVitae.psd" />
   </ItemGroup>
   <ItemGroup>
