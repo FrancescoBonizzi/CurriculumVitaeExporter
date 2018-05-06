@@ -37,7 +37,6 @@ _fluentConsole
     .NewLine().Tab().Write(curriculumVitae.FullName, _titleColor)
     .NewLine().Tab().Write(curriculumVitae.Headline)
     .NewLine().Tab().Write(curriculumVitae.CurrentPosition)
-//
 ```
 
 ...which in my opinion is very elegant to see.
