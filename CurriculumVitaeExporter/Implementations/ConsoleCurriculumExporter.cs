@@ -7,6 +7,9 @@ using System.Text;
 
 namespace CurriculumVitaeExporter.Implementations
 {
+    /// <summary>
+    /// An implementation of <see cref="ICurriculumExporter"/> that exports a <see cref="CurriculumVitae"/>  on the Console
+    /// </summary>
     public sealed class ConsoleCurriculumExporter : ICurriculumExporter
     {
         private readonly ConsoleColor _titleColor = ConsoleColor.Blue;

@@ -6,6 +6,10 @@ using System.IO;
 
 namespace CurriculumVitaeExporter.Implementations
 {
+    /// <summary>
+    /// An implementation of <see cref="ICurriculumProvider"/> that loads a <see cref="CurriculumVitae"/> from a json file
+    /// according to its domain definition
+    /// </summary>
     public sealed class JsonFileCurriculumProvider : ICurriculumProvider
     {
         private readonly CurriculumVitae _curriculumVitae;

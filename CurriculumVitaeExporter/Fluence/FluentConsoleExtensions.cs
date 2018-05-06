@@ -4,8 +4,17 @@ using System.Linq;
 
 namespace CurriculumVitaeExporter.Fluence
 {
+    /// <summary>
+    /// Some extensions to enrich FluentConsole while writing something about CurriculumVitae
+    /// </summary>
     public static class FluentConsoleExtensions
     {
+        /// <summary>
+        /// It writes a list of experiences
+        /// </summary>
+        /// <param name="fluentConsole"></param>
+        /// <param name="experiences"></param>
+        /// <returns></returns>
         public static FluentConsole Write(
             this FluentConsole fluentConsole, 
             IEnumerable<Experience> experiences)
@@ -27,6 +36,12 @@ namespace CurriculumVitaeExporter.Fluence
             return fluentConsole;
         }
 
+        /// <summary>
+        /// It writes a list of informations
+        /// </summary>
+        /// <param name="fluentConsole"></param>
+        /// <param name="informations"></param>
+        /// <returns></returns>
         public static FluentConsole Write(
             this FluentConsole fluentConsole, 
             IEnumerable<string> informations)
@@ -41,6 +56,12 @@ namespace CurriculumVitaeExporter.Fluence
             return fluentConsole;
         }
 
+        /// <summary>
+        /// It writes a list of links
+        /// </summary>
+        /// <param name="fluentConsole"></param>
+        /// <param name="links"></param>
+        /// <returns></returns>
         public static FluentConsole Write(
             this FluentConsole fluentConsole,
             IEnumerable<Link> links)
