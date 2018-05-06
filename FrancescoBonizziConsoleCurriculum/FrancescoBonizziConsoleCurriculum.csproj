@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae-GitHubCut.jpg" />
-    <Content Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae.jpg" />
     <None Include="App.config" />
     <Content Include="document-128.ico" />
     <Content Include="FrancescoBonizzi-CV.json">

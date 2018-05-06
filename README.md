@@ -8,9 +8,8 @@ Just a library that defines a **Curriculum Vitae domain** and some abstractions 
 
 ![Francesco Bonizzi Curriculum Vitae](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae-GitHubCut.jpg)
 
-- [Pdf version](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae.pdf)
+- [Pdf A4 printable version](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae.pdf)
 - [Psd version](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae.psd)
-- [Jpg version](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae.jpg)
 
 
 
