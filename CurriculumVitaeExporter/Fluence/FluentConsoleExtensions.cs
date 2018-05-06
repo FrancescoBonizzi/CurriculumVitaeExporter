@@ -10,8 +10,6 @@ namespace CurriculumVitaeExporter.Fluence
             this FluentConsole fluentConsole, 
             IEnumerable<Experience> experiences)
         {
-            // devo fare una cosa bella per concatenare i tab... non with double tab, ma .WithTab().WithTab()
-            // basta far ritornare la console
             foreach (var workingExperience in experiences)
             {
                 fluentConsole.Tab().Write($"· {workingExperience.Description}");

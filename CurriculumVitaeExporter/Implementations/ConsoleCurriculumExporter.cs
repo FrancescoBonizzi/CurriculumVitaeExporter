@@ -5,10 +5,6 @@ using System;
 using System.Globalization;
 using System.Text;
 
-// TODO:
-// fai una libreria con questo
-// mettici di fianco app a console per usarla col mio curriculum
-
 namespace CurriculumVitaeExporter.Implementations
 {
     public sealed class ConsoleCurriculumExporter : ICurriculumExporter
