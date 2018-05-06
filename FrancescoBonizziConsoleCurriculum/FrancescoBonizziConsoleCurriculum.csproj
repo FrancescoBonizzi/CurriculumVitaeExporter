@@ -49,14 +49,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="PSD\FrancescoBonizzi-CurriculumVitae.jpg" />
+    <Content Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae-GitHubCut.jpg" />
+    <Content Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae.jpg" />
     <None Include="App.config" />
     <Content Include="document-128.ico" />
     <Content Include="FrancescoBonizzi-CV.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Include="PSD\FrancescoBonizzi-CurriculumVitae.pdf" />
-    <None Include="PSD\FrancescoBonizzi-CurriculumVitae.psd" />
+    <None Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae.pdf" />
+    <None Include="PublishedFiles\FrancescoBonizzi-CurriculumVitae.psd" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CurriculumVitaeExporter\CurriculumVitaeExporter.csproj">
