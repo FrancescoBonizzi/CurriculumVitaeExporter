@@ -1,0 +1,72 @@
+{
+  "FullName": "Francesco Bonizzi",
+  "Headline": ".NET backend developer",
+  "CurrentPosition": "iSolutions Software Engineering",
+  "Address": "Noceto, Emilia Romagna, Italy",
+  "Email": "fbonizzi.90@gmail.com",
+  "BirthDate": "1990-08-05",
+
+  "Skills": [
+    ".NET: C#/VB/Full Framework/Core/ASP.NET/MVC",
+    "Microsoft SQL Server / Service Bus / Service Fabric / TFS / Azure",
+    "Git",
+    "Web-Queue-Worker / Microservices",
+    "Typescript/Javascript/HTML/Css"
+  ],
+
+  "Hobbies": [
+    "Playing piano",
+    "Literature",
+    "Developing video games"
+  ],
+
+  "Experiences": [
+    {
+      "Description": "Backend .NET/MSSQL Server software developer at iSolutions SRL (PR)",
+      "From": "2015-06-01"
+    },
+    {
+      "Description": "Frontend PHP/MySql developer at Chromo Pharma (MN)",
+      "From": "2014-01-01",
+      "To": "2015-06-01"
+    },
+    {
+      "Description": "VBA Macro developer at Tncr Editori@l Engineering (MN)",
+      "From": "2012-01-01",
+      "To": "2014-01-01"
+    }
+  ],
+
+  "Education": [
+    {
+      "Description": "High school: 100/100 at Liceo Scientifico Contardo Ferrini (MN)"
+    },
+    {
+      "Description": "Bachelor's degree in computer science: 100/110 at Università degli Studi Di Parma (PR)"
+    }
+  ],
+
+  "Projects": [
+    {
+      "Description": "I released on GitHub \"Booli\": a boolean expressions interpreter"
+    },
+    {
+      "Description": "I began to actively contribute to open source on GitHub"
+    },
+    {
+      "Description": "I published on Android Store and Microsoft Store a videogame with Monogame/Xamarin: \"Starfall\""
+    }
+  ],
+
+  "Links": [
+    {
+      "Title": "GitHub",
+      "Url": "https://github.com/FrancescoBonizzi"
+    },
+    {
+      "Title": "LinkedIn",
+      "Url": "https://www.linkedin.com/in/francesco-bonizzi-037743154/"
+    }
+
+  ]
+}
