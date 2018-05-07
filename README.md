@@ -7,6 +7,7 @@ Just a library that defines a **Curriculum Vitae domain** and some abstractions 
 # My Curriculum Vitae
 ![Francesco Bonizzi Curriculum Vitae](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae-GitHubCut.jpg)
 [Pdf A4 printable version](FrancescoBonizziConsoleCurriculum/PublishedFiles/FrancescoBonizzi-CurriculumVitae.pdf)
+
 [Json version](FrancescoBonizziConsoleCurriculum/FrancescoBonizzi-CV.json)
 
 # Getting started
