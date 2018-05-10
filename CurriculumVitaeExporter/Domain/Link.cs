@@ -14,5 +14,10 @@
         /// The link url
         /// </summary>
         public string Url { get; set; }
+
+        /// <summary>
+        /// If in the curriculum page you want to show this url
+        /// </summary>
+        public bool ShowUrl { get; set; } = true;
     }
 }

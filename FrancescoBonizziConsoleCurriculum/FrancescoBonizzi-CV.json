@@ -48,20 +48,28 @@
 
   "Projects": [
     {
-      "Description": "I began to actively contribute to open source on GitHub"
+      "Title": "I began to actively contribute to open source on GitHub",
+      "Url": "https://github.com/FrancescoBonizzi",
+      "ShowUrl": false
     },
     {
-      "Description": "I released on GitHub \"Booli\": a boolean expressions interpreter"
+      "Title": "I released on GitHub \"Booli\": a boolean expressions interpreter",
+      "Url": "https://github.com/FrancescoBonizzi/Boolli",
+      "ShowUrl": false
     },
     {
-      "Description": "I released on GitHub \"CurriculumVitaeExporter\": this page code generator"
+      "Title": "I released on GitHub \"CurriculumVitaeExporter\": this page code generator",
+      "Url": "https://github.com/FrancescoBonizzi/CurriculumVitaeExporter",
+      "ShowUrl": false
     },
     {
-      "Description": "I published on Android Store and Microsoft Store a videogame with Monogame/Xamarin: \"Starfall\""
+      "Title": "I published on Android Store and Microsoft Store a videogame with Monogame/Xamarin: \"Starfall\"",
+      "Url": "https://play.google.com/store/apps/details?id=com.francescobonizzi.starfall",
+      "ShowUrl": false
     }
   ],
 
-  "Links": [
+  "OtherLinks": [
     {
       "Title": "GitHub",
       "Url": "https://github.com/FrancescoBonizzi"

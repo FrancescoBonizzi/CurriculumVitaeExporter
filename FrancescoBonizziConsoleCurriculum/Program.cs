@@ -25,6 +25,8 @@ namespace FrancescoBonizziConsoleCurriculum
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"Ooops! {ex.Message}");
+
+                Console.Read();
             }
         }
     }

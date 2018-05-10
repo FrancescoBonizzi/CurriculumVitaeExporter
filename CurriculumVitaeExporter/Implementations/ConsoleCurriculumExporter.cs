@@ -63,7 +63,7 @@ namespace CurriculumVitaeExporter.Implementations
                 .NewLine().Write(curriculumVitae.Hobbies)
 
                 .NewLine().Tab().Write("Links", _titleColor)
-                .NewLine().Write(curriculumVitae.Links)
+                .NewLine().Write(curriculumVitae.OtherLinks)
 
                 .NewLine();
         }

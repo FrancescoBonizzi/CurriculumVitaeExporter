@@ -66,10 +66,22 @@ namespace CurriculumVitaeExporter.Fluence
             this FluentConsole fluentConsole,
             IEnumerable<Link> links)
         {
-            return fluentConsole.Write(
-                links
-                .OrderBy(l => l.Title)
-                .Select(l => $"{l.Title}: \t{l.Url}"));
+            var whatToWrite = new List<string>();
+
+            foreach (var link in links.OrderBy(l => l.Title))
+            {
+                var text = link.Title;
+
+                if (link.ShowUrl)
+                {
+                    text = $"{text} \t{link.Url}";
+                }
+
+                whatToWrite.Add(text);
+            }
+
+            fluentConsole.Write(whatToWrite);
+            return fluentConsole;
         }
     }
 }

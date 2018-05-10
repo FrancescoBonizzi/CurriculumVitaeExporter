@@ -61,11 +61,11 @@ namespace CurriculumVitaeExporter.Domain
         /// <summary>
         /// The list of the projects you completed
         /// </summary>
-        public IEnumerable<Experience> Projects { get; set; }
+        public IEnumerable<Link> Projects { get; set; }
 
         /// <summary>
         /// Some links like your LinedIn page, you website...
         /// </summary>
-        public IEnumerable<Link> Links { get; set; }
+        public IEnumerable<Link> OtherLinks { get; set; }
     }
 }
