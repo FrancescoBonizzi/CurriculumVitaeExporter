@@ -64,7 +64,8 @@ namespace CurriculumVitaeExporter.Fluence
         /// <returns></returns>
         public static FluentConsole Write(
             this FluentConsole fluentConsole,
-            IEnumerable<Link> links)
+            IEnumerable<Link> links,
+            bool shouldShowUrls)
         {
             var whatToWrite = new List<string>();
 
@@ -72,7 +73,7 @@ namespace CurriculumVitaeExporter.Fluence
             {
                 var text = link.Title;
 
-                if (link.ShowUrl)
+                if (shouldShowUrls)
                 {
                     text = $"{text} \t{link.Url}";
                 }

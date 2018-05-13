@@ -1,4 +1,6 @@
-﻿namespace CurriculumVitaeExporter.Domain
+﻿using System;
+
+namespace CurriculumVitaeExporter.Domain
 {
     /// <summary>
     /// A link to something useful in you Curriculum Vitae
@@ -13,11 +15,6 @@
         /// <summary>
         /// The link url
         /// </summary>
-        public string Url { get; set; }
-
-        /// <summary>
-        /// If in the curriculum page you want to show this url
-        /// </summary>
-        public bool ShowUrl { get; set; } = true;
+        public Uri Url { get; set; }
     }
 }
