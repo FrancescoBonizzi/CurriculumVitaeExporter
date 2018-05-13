@@ -39,6 +39,11 @@ namespace CurriculumVitaeExporter.Domain
         public DateTime BirthDate { get; set; }
 
         /// <summary>
+        /// Your photo
+        /// </summary>
+        public Uri PhotoUrl { get; set; }
+
+        /// <summary>
         /// A list of your skills, such as: PHP, .NET, Java...
         /// </summary>
         public IEnumerable<string> Skills { get; set; }
