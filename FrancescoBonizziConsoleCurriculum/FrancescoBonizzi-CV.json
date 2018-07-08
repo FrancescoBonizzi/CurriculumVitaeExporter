@@ -8,11 +8,11 @@
   "PhotoUrl": "https://raw.githubusercontent.com/FrancescoBonizzi/CurriculumVitaeExporter/master/FrancescoBonizziConsoleCurriculum/FrancescoBonizzi.jpg",
 
   "Skills": [
-    ".NET: C#/VB/Full Framework/Core/ASP.NET/MVC",
+    ".NET: C# / VB / Full Framework / Core / ASP.NET / MVC",
     "Microsoft SQL Server / Service Bus / Service Fabric / TFS / Azure",
     "Git",
     "Web-Queue-Worker / Microservices",
-    "Typescript/Javascript/HTML/Css"
+    "Typescript / Javascript / HTML / CSS"
   ],
 
   "Hobbies": [
