@@ -8,11 +8,11 @@
   "PhotoUrl": "https://raw.githubusercontent.com/FrancescoBonizzi/CurriculumVitaeExporter/master/FrancescoBonizziConsoleCurriculum/FrancescoBonizzi.jpg",
 
   "Skills": [
-    ".NET: C#/VB/Full Framework/Core/ASP.NET/MVC",
+    ".NET: C# / VB / Full Framework / Core / ASP.NET / MVC",
     "Microsoft SQL Server / Service Bus / Service Fabric / TFS / Azure",
     "Git",
     "Web-Queue-Worker / Microservices",
-    "Typescript/Javascript/HTML/Css"
+    "Typescript / Javascript / HTML / CSS"
   ],
 
   "Hobbies": [
@@ -49,6 +49,10 @@
 
   "Projects": [
     {
+      "Title": "I published on Android Store a videogame with Monogame/Xamarin: \"Rellow\"",
+      "Url": "https://play.google.com/store/apps/details?id=com.francescobonizzi.rellow"
+    },
+    {
       "Title": "I began to actively contribute to open source on GitHub",
       "Url": "https://github.com/FrancescoBonizzi"
     },
@@ -57,7 +61,7 @@
       "Url": "https://github.com/FrancescoBonizzi/Boolli"
     },
     {
-      "Title": "I released on GitHub \"CurriculumVitaeExporter\": this page code generator",
+      "Title": "I released on GitHub \"CurriculumVitaeExporter\"",
       "Url": "https://github.com/FrancescoBonizzi/CurriculumVitaeExporter"
     },
     {
