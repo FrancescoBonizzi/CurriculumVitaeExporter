@@ -1,5 +1,7 @@
 # CurriculumVitaeExporter
 
+[![Build status](https://flowsoftproject.visualstudio.com/GithubOpenSource/_apis/build/status/CurriculumVitaeExporter)](https://flowsoftproject.visualstudio.com/GithubOpenSource/_build/latest?definitionId=22)
+
 Just a library that defines a **Curriculum Vitae domain** and some abstractions to export it to any format...
 
 ...mine is exported as a `Console Application` with a fluent syntax!
