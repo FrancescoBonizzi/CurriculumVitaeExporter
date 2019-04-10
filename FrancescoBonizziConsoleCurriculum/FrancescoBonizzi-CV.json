@@ -9,7 +9,8 @@
 
   "Skills": [
     ".NET: C# / VB / Full Framework / Core / ASP.NET / MVC",
-    "Microsoft SQL Server / Service Bus / Service Fabric / Azure / DevOps",
+    "Microsoft SQL Server / Service Bus / RabbitMQ",
+    "Service Fabric / Azure / DevOps",
     "Git",
     "Web-Queue-Worker / Microservices",
     "Typescript / Javascript / HTML / CSS"
