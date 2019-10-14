@@ -1,7 +1,7 @@
 {
   "FullName": "Francesco Bonizzi",
-  "Headline": ".NET software developer",
-  "CurrentPosition": "iSolutions Software Engineering",
+  "Headline": "Software developer",
+  "CurrentPosition": "Gruppo Infor",
   "Address": "Fidenza, Emilia Romagna, Italy",
   "Email": "fbonizzi.90@gmail.com",
   "BirthDate": "1990-08-05",
@@ -25,8 +25,13 @@
 
   "Experiences": [
     {
+      "Description": "Full Stack Developer at Gruppo Infor (PR)",
+      "From": "2019-10-16"
+    },
+    {
       "Description": "Backend .NET/MSSQL Server software developer at iSolutions SRL (PR)",
-      "From": "2015-06-01"
+      "From": "2015-06-01",
+      "To": "2019-10-11"
     },
     {
       "Description": "Frontend PHP/MySql developer at Chromo Pharma (MN)",
